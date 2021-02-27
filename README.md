@@ -20,10 +20,12 @@ First, install dependencies:
 yarn
 ```
 
-Then, run the development server:
+Then, start the emulator:
 
 ```bash
 yarn start
+
+#then
 
 yarn android
 # or
