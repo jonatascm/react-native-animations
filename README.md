@@ -2,9 +2,8 @@
   <h1 align="center"> React-Native Micro Animations </h1>
   <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=MIT&color=FF0&style=for-the-badge&logo=ghost"/>
-  <img src="https://img.shields.io/static/v1?label=&message=React-Native&color=61DAFB&style=for-the-badge&logo=React"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=007ACC&style=for-the-badge&logo=typescript"/>
-
+  <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 <br>
 
