@@ -30,3 +30,7 @@ yarn android
 # or
 yarn ios
 ```
+
+## Examples
+
+![](gifs/SliderScreenGif.gif)
